@@ -1,3 +1,5 @@
+[English](README.md)
+
  # 部落格留言
 
  本空間用於儲存並管理我的部落格留言。
@@ -8,7 +10,7 @@
 
  - 在部落格上留言時，留言會存在這個專案的 GitHub Discussions。
  - 需要有 **GitHub 帳號** 才可以留言。
- - 所有留言是公開的
+ - 所有留言是公開的，可以在 **[Discussions](https://github.com/maydayXi/MyDevLogComments/discussions)** 瀏覽。
 
 ## 部落格
 
