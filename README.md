@@ -17,4 +17,4 @@ Visit **[MyDevLog](https://maydayxi.github.io/MyDevLog/)**.
 ## Comments Guidelines
 
 - Be respectful and constructive.
-- No span or self-promotion.
+- No spam or self-promotion.
