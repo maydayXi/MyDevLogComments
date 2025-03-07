@@ -1,4 +1,4 @@
-[English](READMD.md) | [中文](README.zh-TW.md)
+[中文](README.zh-TW.md)
 
 # MyDevLogComments
 
